@@ -23,7 +23,7 @@ namespace WindowsFormsApplication1
         {
             //lblTourName.BackColor = Color.Red;
             //lblTourName1.ForeColor = Color.Blue;
-            lblTourName1.Text = "Delhi Tour";
+            lblTourName1.Text = "Delhi Tour-test";
             lblTourName1.Font = new Font("Georgia", 12);
 
             //lblTourName2.BackColor = Color.Red;
@@ -65,7 +65,7 @@ namespace WindowsFormsApplication1
 
             //lblTourName2.BackColor = Color.Red;
             //lblTourName2.ForeColor = Color.Blue;
-            lblTourName2.Text = "Africa Madhura Tour";
+            lblTourName2.Text = "Africa Tour";
             lblTourName2.Font = new Font("Georgia", 12);
 
             //lblTourName3.BackColor = Color.Red;

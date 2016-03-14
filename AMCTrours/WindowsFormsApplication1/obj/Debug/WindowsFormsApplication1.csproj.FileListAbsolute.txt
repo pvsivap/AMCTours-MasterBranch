@@ -16,3 +16,6 @@ D:\Siva\MSProjects\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsAppl
 D:\Siva\MSProjects\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 D:\Siva\MSProjects\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\Siva\MSProjects\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
