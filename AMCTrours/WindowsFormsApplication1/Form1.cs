@@ -23,12 +23,12 @@ namespace WindowsFormsApplication1
         {
             //lblTourName.BackColor = Color.Red;
             //lblTourName1.ForeColor = Color.Blue;
-            lblTourName1.Text = "Delhi Tour-test";
+            lblTourName1.Text = "Delhi Tour-Test";
             lblTourName1.Font = new Font("Georgia", 12);
 
             //lblTourName2.BackColor = Color.Red;
             //lblTourName2.ForeColor = Color.Blue;
-            lblTourName2.Text = "Agra Madhura Tour";
+            lblTourName2.Text = "Agra Madhura Tour-Test";
             lblTourName2.Font = new Font("Georgia", 12);
 
             //lblTourName3.BackColor = Color.Red;
@@ -108,7 +108,7 @@ namespace WindowsFormsApplication1
 
         private void lblTourName1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            if ((lblTourName1.Text == "Delhi Tour") && (isDomTravel))
+            if ((lblTourName1.Text == "Delhi Tour-Test") && (isDomTravel))
                 pctTour.Image = Image.FromFile("D:\\Siva\\Tours\\DelhiTour.png");
                 //pctTour.Image = Image.FromFile("\\Tours\\DelhiTour.png");
             else
@@ -124,7 +124,7 @@ namespace WindowsFormsApplication1
 
         private void lblTourName2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            if ((lblTourName2.Text == "Agra Madhura Tour") && (isDomTravel))
+            if ((lblTourName2.Text == "Agra Madhura Tour-Test") && (isDomTravel))
                 pctTour.Image = Image.FromFile("D:\\Siva\\Tours\\Agra-Mathura.png");
             else
                 pctTour.Image = Image.FromFile("D:\\Siva\\Tours\\Africa.png");
