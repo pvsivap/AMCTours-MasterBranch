@@ -33,7 +33,7 @@ namespace WindowsFormsApplication1
 
             //lblTourName3.BackColor = Color.Red;
             //lblTourName3.ForeColor = Color.Blue;
-            lblTourName3.Text = "Manali Tour";
+            lblTourName3.Text = "Manali Tour-test";
             lblTourName3.Font = new Font("Georgia", 12);
 
             //lblTourName4.BackColor = Color.Red;
