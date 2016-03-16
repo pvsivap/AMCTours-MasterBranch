@@ -14,6 +14,7 @@ namespace WindowsFormsApplication1
     {
         bool isIntTravel = false;
         bool isDomTravel = false;
+        bool isAdsProject;
         public Form1()
         {
             InitializeComponent();

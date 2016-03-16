@@ -19,3 +19,12 @@ D:\Siva\MSProjects\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsAppl
 D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Siva\Temp1\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Siva\ads-customer-zero\AMCTrours\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
