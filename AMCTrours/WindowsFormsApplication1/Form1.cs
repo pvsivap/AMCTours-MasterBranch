@@ -28,6 +28,7 @@ namespace WindowsFormsApplication1
             lblTourName1.Font = new Font("Georgia", 12);
 
             isAdsProject = false;
+            isIntTravel = true;
 
             //lblTourName2.BackColor = Color.Red;
             //lblTourName2.ForeColor = Color.Blue;
