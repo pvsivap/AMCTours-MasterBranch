@@ -50,7 +50,7 @@ namespace WindowsFormsApplication1
             //lblTourName6.ForeColor = Color.Blue;
             lblTourName6.Text = "Rishikesh Tour";
             lblTourName6.Font = new Font("Georgia", 12);
-
+            //new comments are added
             pnlTour.Visible = true;
             isIntTravel = false;
             isDomTravel = true;
