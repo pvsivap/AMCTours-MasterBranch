@@ -27,7 +27,7 @@ namespace WindowsFormsApplication1
             lblTourName1.Text = "Delhi Tour-Test";
             lblTourName1.Font = new Font("Georgia", 12);
 
-            isAdsProject = true;
+            isAdsProject = false;
 
             //lblTourName2.BackColor = Color.Red;
             //lblTourName2.ForeColor = Color.Blue;
